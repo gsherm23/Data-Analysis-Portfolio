@@ -16,7 +16,6 @@
 <ul> Decision Trees </ul>
 <ul> Random Forests </ul>
 <ul> Natural Language Processing </ul>
-<ul> Neural Nets and Deep Learning </ul>
 <ul> Support Vector Machines </ul>
 <li> SQL: </li>
 <ul> Using Select, Insert, Update, & Delete to manage my datasets </ul>
