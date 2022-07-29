@@ -3,7 +3,7 @@
 <p> This folder contains several mini SQL projects I have worked on showcasing some of my SQL skills </p>
 
 <h3><ins>Technical Skills Learned & Utilized</ins></h3>
-<li> Filtering & Sorting Datasets Using: </li>
+<li> Filtering & Sorting Datasets using the follwing: </li>
 <ul> IN Operator </ul>
 <ul> BETWEEN Operator </ul>
 <ul> LIKE Operator </ul>
