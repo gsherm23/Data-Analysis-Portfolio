@@ -1,6 +1,6 @@
 <h1> SQL Data Analysis Projects</h1>
 
-<p> This folder is of several mini SQL projects I have worked on showcasing some of my SQL skills </p>
+<p> This folder contains several mini SQL projects I have worked on showcasing some of my SQL skills </p>
 
 <h3><ins>Technical Skills Learned & Utilized</ins></h3>
 <li> Filtering & Sorting Datasets Using: </li>
